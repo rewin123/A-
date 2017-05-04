@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\ATest\ATest\bin\Debug\ATest.exe.config
+C:\Users\Admin\documents\visual studio 2015\Projects\ATest\ATest\obj\Debug\ATest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2015\Projects\ATest\ATest\obj\Debug\ATest.Form1.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\ATest\ATest\obj\Debug\ATest.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\ATest\ATest\obj\Debug\ATest.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2015\Projects\ATest\ATest\bin\Debug\ATest.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\ATest\ATest\bin\Debug\ATest.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\ATest\ATest\obj\Debug\ATest.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\ATest\ATest\obj\Debug\ATest.pdb
